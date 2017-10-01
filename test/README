@@ -1,2 +1,0 @@
-mo-file creation:
-msgfmt -v -c --no-hash -o nl.mo nl.po
